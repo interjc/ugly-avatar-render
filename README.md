@@ -112,8 +112,8 @@ svgData = svgData.replace('viewbox', 'viewBox')
 ```
 
 ## TODO
-- 扩展对更多图片格式的支持，例如 PNG 和 WebP；
-- 引入更多参数，如 hairColor，以确保背景色能够保持固定的颜色值；
+- [x] 扩展对更多图片格式的支持，例如 PNG ~~和 WebP~~；
+- [ ] 引入更多参数，如 hairColor，以确保背景色能够保持固定的颜色值；
 
 
 
