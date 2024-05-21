@@ -36,9 +36,6 @@ export default function Home() {
   return (
     <div className={`flex min-h-screen flex-col  p-12`}>
       <h1 className={'text-center text-lg'}>潦草头像</h1>
-      <a href={"https://github.com/mamumu123/next-api-share"} className={'fixed right-5 top-5'}>
-        <Image src="https://github.githubassets.com/favicons/favicon.svg" width='50' height="50" alt="https://github.com/mamumu123/next-api-share" />
-      </a>
       <div
         className={`flex h-100 w-full  p-24 flex-wrap gap-6`}
       >
